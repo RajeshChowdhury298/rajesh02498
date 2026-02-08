@@ -1,5 +1,7 @@
 # HPCL Sentinel: AI-Driven B2B Sales Intelligence
 
+For Video Demonstration click on this drive link: https://drive.google.com/drive/folders/1BYXFbjg67XsBKOWML6ram7JJF74xZNlZ
+
 ## 🚀 Overview
 **HPCL Sentinel** is an end-to-end sales intelligence platform designed to bridge the discovery gap in HPCL Direct Sales (DS). By autonomously harvesting public signals, the system identifies high-intent B2B leads, maps them to the HPCL product portfolio, and delivers actionable sales dossiers directly to officers via WhatsApp.
 
@@ -63,3 +65,5 @@ The architecture is designed to meet HPCL’s Non-Functional Requirements for **
 2. **Install dependencies**: `npm install`
 3. **Environment Setup**: Create a `.env.local` file with your `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY`.
 4. **Run Development Server**: `npm run dev`
+
+
